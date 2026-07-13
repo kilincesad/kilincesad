@@ -11,7 +11,7 @@
 │   > Muhammed Esad Kılınç                                     │
 │                                                              │
 │   esad@github:~$ cat role.txt                                │
-│   > Developer · CE Student @ ISTE                        │
+│   > Web Developer · CE Student @ ISTE                        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
